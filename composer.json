@@ -1,5 +1,5 @@
 {
-    "name": "loxi5/flysystem",
+    "name": "loxi5/filesystem",
     "type": "library",
     "description": "Filesystem abstraction: Many filesystems, one API.",
     "keywords": [
